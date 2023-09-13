@@ -45,7 +45,7 @@ Access the Temperature Converter web page in your browser:
 
 ### Step 5: View the Result
 
-1. Upon completion, the converted temperature, along with the chosen scale, displays on the web page.
+1. Upon completion, the converted temperature, along with the chosen scale, is displayed on the web page.
 2. Any errors appear in red text beneath the result.
 
 ### Step 6: Start a New Conversion
