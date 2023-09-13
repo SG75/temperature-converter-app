@@ -22,9 +22,9 @@ For robust error handling, we implement try-catch statements. Should you input a
 
 Access the Temperature Converter web page in your browser:
 
-```
+
 [Live Demo](https://sg75-temperature-converter-app.netlify.app/)
-```
+
 
 ### Step 2: Enter Temperature Value
 
